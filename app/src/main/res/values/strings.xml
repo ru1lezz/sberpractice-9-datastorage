@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NoteApplication</string>
+    <string name="content">TextView</string>
+    <string name="content_edittext">Name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    <string name="settings">Settings</string>
+    <string name="color_red">Красный</string>
+    <string name="color_blue">Синий</string>
+    <string name="color_yellow">Желтый</string>
+</resources>
